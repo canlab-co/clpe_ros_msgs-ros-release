@@ -1,0 +1,12 @@
+Source: ros-noetic-clpe-ros-msgs
+Section: misc
+Priority: optional
+Maintainer: Dongwoo Sun <dwsun@can-lab.co.kr>
+Build-Depends: debhelper (>= 9.0.0), python3-setuptools, ros-noetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-clpe-ros-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Messages used by clpe_ros

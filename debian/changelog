@@ -1,0 +1,8 @@
+ros-noetic-clpe-ros-msgs (0.1.0-1focal) focal; urgency=high
+
+  * Provides ClpeCameraInfo message
+  * Contributors: Teo Koon Peng, Yadunund Vijay
+
+ -- Dongwoo Sun <dwsun@can-lab.co.kr>  Wed, 20 Apr 2022 07:00:00 -0000
+
+
